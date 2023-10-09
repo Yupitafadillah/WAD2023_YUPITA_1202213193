@@ -1,0 +1,29 @@
+.container-fluid{
+    background-color: grey;
+
+}
+.collapse navbar-collapse{
+    color: aqua;
+    
+}
+#navbarSupportedContent{
+    color: black;
+}
+.container{
+    background-color: grey(122, 184, 122, 0.693);
+
+    justify-content: space-around;
+    background-image: url(bg.jpg);
+
+
+}
+
+.bghead{
+    background-image: url(bag.jfif);
+}
+.jumbroton{
+    background-image:url( bag.jfif) ;
+}
+.card {
+    background-color: white;
+}
